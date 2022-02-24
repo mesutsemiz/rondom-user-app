@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/rondom-user-app/static/css/main.ff0f79e4.chunk.css",
+    "main.js": "/github.io/rondom-user-app/static/js/main.d1433b94.chunk.js",
+    "main.js.map": "/github.io/rondom-user-app/static/js/main.d1433b94.chunk.js.map",
+    "runtime-main.js": "/github.io/rondom-user-app/static/js/runtime-main.5ab1f15c.js",
+    "runtime-main.js.map": "/github.io/rondom-user-app/static/js/runtime-main.5ab1f15c.js.map",
+    "static/js/2.e13a0578.chunk.js": "/github.io/rondom-user-app/static/js/2.e13a0578.chunk.js",
+    "static/js/2.e13a0578.chunk.js.map": "/github.io/rondom-user-app/static/js/2.e13a0578.chunk.js.map",
+    "index.html": "/github.io/rondom-user-app/index.html",
+    "static/css/main.ff0f79e4.chunk.css.map": "/github.io/rondom-user-app/static/css/main.ff0f79e4.chunk.css.map",
+    "static/js/2.e13a0578.chunk.js.LICENSE.txt": "/github.io/rondom-user-app/static/js/2.e13a0578.chunk.js.LICENSE.txt",
+    "static/media/email.e1f03bb9.svg": "/github.io/rondom-user-app/static/media/email.e1f03bb9.svg",
+    "static/media/location.0b7d98ab.svg": "/github.io/rondom-user-app/static/media/location.0b7d98ab.svg",
+    "static/media/phone.d017e1ae.svg": "/github.io/rondom-user-app/static/media/phone.d017e1ae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ab1f15c.js",
+    "static/js/2.e13a0578.chunk.js",
+    "static/css/main.ff0f79e4.chunk.css",
+    "static/js/main.d1433b94.chunk.js"
+  ]
+}
